@@ -50,6 +50,9 @@ p{
 .about-me-area .half-width p{
     padding-bottom: 50px;
 }
+.recipe-area{
+    padding-bottom: 50px;
+}
 .recipe-description{
     text-align: center;
 }
@@ -81,7 +84,7 @@ img{
     text-align: center;
     box-shadow: 0px 8px 15px gray;
     border-radius: 30px;
-
+    padding-bottom: 50px;
 }
 .recipe-area .recipe-item .box h1{
     font-size: 40px;
@@ -89,4 +92,10 @@ img{
 .recipe-area .recipe-item .box p{
     padding-right: 6px;
     padding-left: 6px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(31, 29, 29);
+    margin-bottom: 0;
+    padding: 40px;
 }
